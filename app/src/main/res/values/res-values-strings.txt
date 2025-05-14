@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Saladaria</string>
+    
+    <!-- Menu Fragment -->
+    <string name="menu_title">Cardápio</string>
+    <string name="tab_salads">Saladas</string>
+    <string name="tab_proteins">Proteínas</string>
+    <string name="tab_drinks">Bebidas</string>
+    <string name="btn_view_cart">Ver Carrinho</string>
+    <string name="add_to_cart">Adicionar</string>
+    <string name="added_to_cart">%1$s adicionado ao carrinho</string>
+    
+    <!-- Cart Fragment -->
+    <string name="cart_title">Seu Carrinho</string>
+    <string name="subtotal">Subtotal:</string>
+    <string name="btn_checkout">Finalizar Pedido</string>
+    <string name="cart_empty">Seu carrinho está vazio</string>
+    <string name="remove_item">Remover item</string>
+    
+    <!-- Checkout Fragment -->
+    <string name="checkout_title">Finalizar Pedido</string>
+    <string name="delivery_method">Forma de Entrega</string>
+    <string name="pickup">Retirar no local</string>
+    <string name="delivery">Entrega</string>
+    <string name="address_hint">Endereço de entrega</string>
+    <string name="payment_method">Forma de Pagamento</string>
+    <string name="credit_card">Cartão de Crédito</string>
+    <string name="debit_card">Cartão de Débito</string>
+    <string name="pix">PIX</string>
+    <string name="cash">Dinheiro</string>
+    <string name="card_number">Número do Cartão</string>
+    <string name="cardholder_name">Nome no Cartão</string>
+    <string name="expiry_date">Validade</string>
+    <string name="cvv">CVV</string>
+    <string name="order_summary">Resumo do Pedido</string>
+    <string name="delivery_fee">Taxa de entrega:</string>
+    <string name="total">Total:</string>
+    <string name="btn_confirm_order">Confirmar Pedido</string>
+    <string name="error_address_required">Informe o endereço de entrega</string>
+    <string name="error_card_number_required">Informe o número do cartão</string>
+    <string name="error_cardholder_name_required">Informe o nome no cartão</string>
+    <string name="error_expiry_date_required">Informe a data de validade</string>
+    <string name="error_cvv_required">Informe o código de segurança</string>
+    
+    <!-- Order Confirmation Fragment -->
+    <string name="order_success">Pedido Realizado com Sucesso!</string>
+    <string name="order_number">Número do pedido: #%1$s</string>
+    <string name="order_details">Acompanhe o status do seu pedido no aplicativo.</string>
+    <string name="btn_back_to_menu">Voltar ao Cardápio</string>
+</resources>
